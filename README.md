@@ -1,5 +1,13 @@
 <a name="readme-top"></a>
 
+<div align="center">
+  <img src="Screenshot.PNG" alt="logo" width="140"  height="auto" />
+  <br/>
+
+  <h3><b>Profile Card</b></h3>
+
+</div>
+
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
