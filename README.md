@@ -76,7 +76,7 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link]([https://google.com](https://78fatemanazari.github.io/Profile-Card/))
+- [Live Demo Link][https://78fatemanazari.github.io/Profile-Card/]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
